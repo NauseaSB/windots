@@ -1,0 +1,17 @@
+# Stuff that i hate
+# Windows system files
+Thumbs.db
+Thumbs.db:encryptable
+desktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+# Editor directories and files
+.vscode/
+.idea/
+*.swp
+
+# Logs and backups
+*.log
+*.backup
+backup/
