@@ -15,3 +15,20 @@ $RECYCLE.BIN/
 *.log
 *.backup
 backup/
+
+# Neovim specific
+Session.vim
+.netrwhist
+*.swp
+*.swo
+undo/
+shada/
+
+.env
+.env.*
+*.pem
+*.key
+*.pub
+id_rsa*
+*.pfx
+*.p12
